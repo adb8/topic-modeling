@@ -3,14 +3,10 @@ a {
     text-decoration: none;
 }
 
-* {
-    border: solid black 2px
-}
-
 a:hover {
     color: #000000;
-    text-decoration:none; 
-    cursor:pointer;  
+    text-decoration: none; 
+    cursor: pointer;  
 }
 
 .button-cont button {
